@@ -1,4 +1,5 @@
 # Get-Comments-And-...-With-Back-end
+HEAD
 
 A backend-powered system designed to efficiently fetch, manage, and display comments with high performance and clean data flow.
 
@@ -27,3 +28,6 @@ Whether the comments are being loaded dynamically, paginated, or processed befor
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
+
+A backend-powered project for fetching, managing, and displaying comments efficiently.  This project focuses on seamless comment retrieval from the backend, allowing fast data handling, structured responses, and smooth integration with the frontend for a better user experience.
+bb7386259ad36a99bcb36201a8e10cd1d752c241
